@@ -1,0 +1,137 @@
+﻿1,1,1000,Michael,Conrad,Toothbrush,3$,0$,Robert Edwards 2300/42,Chicago,USA
+2,2,1001,Daniel,Stuart,Toothpaste,1.5$,0$,7th Avenue 20\8,New York,USA
+3,1,1002,Michael,Conrad,Toothbrush,3$,0$,JFK 120/42,New York,USA
+4,1,1003,Georgio,Peruzzi,Toothbrush,3$,10$,Christopher Columbus 150/8,Newark,USA
+5,3,1004,Roger,Lee Jr,Dental floss,0.8$,10$,Alexander Graham Bell 100/42,Boston,USA
+6,4,1005,Ron,DeSantis,Backpack 30L,18$,0$,George Washington  200/7,Miami,USA
+7,5,1006,Martin,Oliveira,Backpack 50L,30$,0$,Martin Luther King Jr 120/5,Miami,USA
+7,5,1006,Martin,Oliveira,Backpack 50L,30$,0$,Douglas McCarthur 300/12,Philadelphia,USA
+8,6,1007,Jennifer,Rudiger,Backpack 60L,42$,11$,Robert Green 2300/20,Pittsburgh,USA
+9,7,1008,Monica,Belluchi,Backpack 80L,55$,8$,Thomas Jefferson 22/11,Charlotte,USA
+11,8,1010,Truce,Drake Jr,Tent for 2 People,60$,12$,Louis Armstrong 33/2,Atlanta,USA
+12,1,1011,Edith,Allison,Toothbrush,3$,0$,FDR 100/42,Orlando,USA
+13,9,1012,Francois,LeBlanc,Tent for 4 People,100$,12$,Victor Hugo 90/2,Miami,USA
+14,1,1013,Jose,Molinero Lopez,Toothbrush,3$,0$,Victor Herrera 23/1,Los Angeles,USA
+15,9,1014,Eric,Samuels Jr,Tent for 4 People,100$,12$,Diego Rivera Avenue 92/4,Los Angeles,USA
+16,1,1015,Dimitris,Papadopolous,Toothbrush,3$,0$,Mark Shagal 22/2,Los Angeles,USA
+17,9,1016,Alicia,Trene Rowland,Tent for 4 People,100$,13$,Robert Kane 11/42,Oakland,USA
+18,9,1017,Neil,Gates,Tent for 4 People,100$,10$,Steve Jobs 26/4,Seattle,USA
+19,1,1018,Harry,Benjamin Jackson,Toothbrush,3$,0$,Woodrow Wilson 300/7,Houston,USA
+20,9,1019,Felicia,Conrad,Tent for 4 People,100$,12$,Robert Edwards 2300/42,Dallas,USA
+21,9,1020,Kimberly,Conrad,Tent for 4 People,100$,12$,Robert Edwards 2300/42,San Antonio,USA
+21,9,1020,Kimberly,Conrad,Tent for 4 People,100$,12$,Robert Lee Jr 23/42,Des Moines,USA
+22,1,1021,Laura,Hofmann,Toothbrush,3$,0$,Erasmus 22/5,Phoenix,USA
+23,9,1022,Hugo,Hernandez Diaz,Tent for 4 People,100$,12$,Charles Ludvigsson 120/6,Tucson,USA
+25,9,1024,Larry,Collins,Tent for 4 People,100$,11$,Robert Lee 220/4,Colorado Springs,USA
+26,1,1025,Nicole,Davis,Toothbrush,3$,0$,Robert Frank 22/1,Abilene,USA
+27,9,1026,Vicky,Clifford Gibbs,Tent for 4 People,100$,12$,Benjamin Warfield 233/15,Provo,USA
+28,1,1027,Olivia,McQuinn,Toothbrush,3$,0$,Ann Lee 112/42,Bozeman,USA
+29,9,1028,Ian,Miller,Tent for 4 People,100$,13$,Richard John Neuhaus 234/14,Dickinson,USA
+30,2,1029,Josef,Smith,Toothpaste,1.5$,0$,Billy Graham 23/2,Fargo,USA
+31,4,1030,Michelle,Denise,Backpack 30L,18$,10$,James Gibbons 55/11,Duluth,USA
+32,2,1031,Janice,Mariott,Toothpaste,1.5$,0$,John Howard Yoder 86/10,Iowa City,USA
+33,1,1032,Kevin,De Jong,Toothbrush,3$,0$,Reinhold Niebuhr  80/7,Lincoln,USA
+34,2,1033,Jasmin,Fletcher,Toothpaste,1.5$,0$,Roger Williams 70/42,Kansas City,USA
+35,4,1034,Dwane,Lee Armstrong,Backpack 30L,18$,14$,Ella Fitzgerald 102/12,Las Vegas,USA
+36,2,1035,Dorothy,Jackson,Toothpaste,1.5$,0$,Robert Flint 22/3,Bloomington,USA
+37,1,1036,Denise,Winston,Toothbrush,3$,0$,Abraham Lincoln 114/17,Chicago,USA
+38,3,1037,Clark,Ferguson,Dental floss,0.8$,0$,William Cameron Townsend  100/8,Richmond,USA
+39,1,1038,Clarise,Wayne,Toothbrush,3$,0$,Robert Michaelson 212/2,Buffalo,USA
+40,13,1039,Anna,Lee Stuart,Chia Seeds,2$,0$,Robert Jackson 22/7,Rochester,USA
+41,1,1040,Eva,Stanely,Toothbrush,3$,0$,Admiral Nelson 112/42,Tallahassee,USA
+42,4,1072,C?cile,Dupont,Backpack 30L,18$,16$,Rue des Boulets 1200/42,Lyon,France
+43,1,1082,Raphael,Van Juulit,Toothbrush,3$,1$,Gustav Klimt st. 23/10,Rotterdam,Netherlands
+44,4,1083,Els,De Jong,Backpack 30L,18$,12$,Rembrandt st. 232/42,Utrecht,Netherlands
+45,5,1084,Louis,Van Daam,Backpack 50L,30$,11$,Bloemstraat 2311/411,Eindhoven,Netherlands
+47,4,1086,Raphael,Del Piero,Backpack 30L,18$,11$,Dante 3/9,Rome,Italy
+48,5,1100,Ali,Karimi,Backpack 50L,30$,13$,Lilla Nygatan 2300/42,Malmo,Sweden
+49,1,1101,Andres,Tegnell,Toothbrush,3$,0$,Pr?stgatan 2300/42,Uppsala,Sweden
+50,6,1102,Michael,Conrad,Backpack 60L,42$,14$,Skeppsbron 2300/42,Helsingborg,Sweden
+51,1,1119,Gerhard,Zimmermann,Toothbrush,3$,0$,Unter den Linden 2300/42,Munich,Germany
+10,4,1120,Fritz,Kruger,Backpack 30L,18$,11$,Kastanienallee 802/6,Dortmund,Germany
+52,10,1121,Emma,Meyer,Flashlight 3 LED,4$,1$,Alte and Neue Sch?nhauser Strasse 277/3,Kaiserslautern,Germany
+53,7,1141,Gon?alo,Fernandes,Backpack 80L,55$,15$,Rua de Goa 88/42,Lisbon,Portugal
+54,1,1142,Leonor,Rodrigues,Toothbrush,3$,0$,Rua de F?tima  322/42,Porto,Portugal
+55,10,1143,In?s,Costa,Flashlight 3 LED,4$,13$,Rua de Santo Antonio 12/7,Braga,Portugal
+24,1,1150,Josip,Kova?i?,Toothbrush,3$,1$,Babuki?eva ulica 9/40,Zagreb,Croatia
+56,9,1171,Mahmut,Karamustafa,Tent for 4 People,100$,12$,Selma Riza sk. 87/2,Bursa,Turkey
+56,9,1171,Mahmut,Karamustafa,Tent for 4 People,100$,12$,Selma Riza sk. 87/2,Bursa,Turkey
+57,7,1172,Dilek,Karaku?,Backpack 80L,55$,11$,Mehmed Akif Ersoy sk. 83/42,Bursa,Turkey
+58,1,1173,Muce,Y?lmaz,Toothbrush,3$,0$,Hati ?irpan cd. 88/5,Adana,Turkey
+59,7,1200,Miguel,Hernan Castro,Backpack 80L,55$,14$,Calle de Genova 133/11,Morelia,Mexico
+60,1,1201,Xavier,Suarez,Toothbrush,3$,0$,Calle de Regina 15/4,Morelia,Mexico
+61,3,1202,Daniel,"Ortega ",Dental floss,0.8$,0$,Calle Dr Mora 9/35,Oaxaca,Mexico
+62,6,1230,Nelson,Santana,Backpack 60L,42$,16$,Calle Adolfo Rodr?guez Obnel 23/22,Salvador,Brazil
+63,4,1231,Felice,Rossini,Backpack 30L,18$,15$,Calle Amabile Visintainer 23/22,Salvador,Brazil
+64,6,1232,Alex,Santos,Backpack 60L,42$,15$,Calle Antonio Galvao de Franca 230/24,Goi?nia,Brazil
+65,9,1270,Karishma,Chakrabarti,Tent for 4 People,100$,17$,Hazratganj 2300/42,Chandigarh,India
+66,1,1271,Kumar,Chawla,Toothbrush,3$,0$,Kasturba Gandhi Marg 80/2,Ahmedabad,India
+67,8,1272,Asim,Mehmedayev,Tent for 2 People,60$,18$,Nur-Sultan Nazarbayev 230/2,Astana,Kazakhstan
+68,2,1300,Hwa-Young,Lee,Toothpaste,1.5$,0$,Jongno 230/13,Seoul,South Korea
+68,2,1300,Hwa-Young,Lee,Toothpaste,1.5$,0$,Jongno 230/13,Seoul,South Korea
+69,13,1301,Hwan,Park,Chia Seeds,2$,0$,Myeongdong 15/42,Seoul,South Korea
+70,12,1302,Seung,Jung,Cocoa Nibs,2.5$,0$,Hongdae  210/4,Busan,South Korea
+71,11,1303,Yong-sun,Kang,Goji Berries,2.5$,0$,Namdaemun-ro 86/33,Busan,South Korea
+72,11,1350,Ainsley,Lee,Goji Berries,2.5$,0$,Albert Einstein 13/19,Yishun,Singapore
+73,4,1351,Amandaz,Wong,Backpack 30L,18$,17$,NULL,Jurong,Singapore
+74,12,1352,Aria,Goh,Cocoa Nibs,2.5$,0$,NULL,Bukit Panjang,Singapore
+75,9,1367,Haim,Moshe,Tent for 4 People,100$,15$,Yohana Jabutinski 21/33,Holon,Israel
+76,11,1380,Tareq,Abu-Aziz,Goji Berries,2.5$,0$,Al-Shabab Avenue-41/42,Manama,Bahrain
+77,9,1381,Djibril,Abu-Tayeb,Tent for 4 People,100$,18$,Riffa-Bu Kwarah 11/9,Riffa,Bahrain
+78,4,1382,Rashid,Abu-Walid,Backpack 30L,18$,17$,Omar ibn al Khattab st. 20/13,Muharraq,Bahrain
+79,4,1383,Rashida,El-Hakim,Backpack 30L,18$,17$,Al-fajjar st. 12/19,Al Qadam,Bahrain
+80,5,1400,Hassan,Musharaf el Shalgoumi,Backpack 50L,30$,18$,Jamal abd el Nasser st. 93/17,Alexandria,Egypt
+81,6,1401,Cesar,Valdez,Backpack 60L,42$,15$,calle de Mario vargas josa 49/16,Kito,Ecuador
+82,7,1402,Ozge,Arslan,Backpack 80L,55$,15$,Ismet Inonu cd. 13/16,Istanbul,Turkey
+83,7,1403,Murat,?a?atay,Backpack 80L,55$,14$,Mustaf Kemal Attaturk 19/33,Istanbul,Turkey
+84,2,1404,Ismet,Tahincio?lu,Toothpaste,1.5$,1$,Necmettin Erbakan 33/36,Istanbul,Turkey
+85,2,1405,Nusret,S?leymano?lu,Toothpaste,1.5$,1$,Necmettin Erbakan cd. 188/36,Istanbul,Turkey
+86,2,1406,Yi?it,Sar?kaya,Toothpaste,1.5$,1$,Suleyman Kanuni 122/26,Istanbul,Turkey
+87,3,1407,Yasemin,?ent?rk,Dental floss,0.8$,1$,Suleyman Demirel 25/29,Istanbul,Turkey
+88,4,1408,Selim,T?fek?i,Backpack 30L,18$,14$,Celaluddin Rumi 38/42,Istanbul,Turkey
+89,1,1409,Tu?ce,Y?ld?r?m,Toothbrush,3$,1$,Turgut Ozal cd. 23/19,Istanbul,Turkey
+90,4,1460,Francisca,Nascimento,Backpack 30L,18$,14$,Franklin T?vora 12/32,Piraciacaba,Brazil
+91,8,1461,Ana,Andrade,Tent for 2 People,60$,12$,Eduardo Wandenkolk 91/11,Teresina,Brazil
+92,10,1462,Deodoro,Machado,Flashlight 3 LED,4$,1$,Deodoro da Fonseca 12/13,Joao Pessoa,Brazil
+93,5,1500,Rafaelo,Cruz,Backpack 50L,30$,14$,NULL,Maringa,Brazil
+94,5,1501,Amado,Pires,Backpack 50L,30$,14$,NULL,Maringa,Brazil
+95,5,1502,Hernando,Henrique,Backpack 50L,30$,14$,NULL,Pelotas,Brazil
+96,6,1503,Arianda,Nogueira,Backpack 60L,42$,13$,NULL,Sao Paulo,Brazil
+97,3,1550,Stefano,Van Juulit,Dental floss,0.8$,0$,Rua Santa Adelina 12/33,Aragua?na,Brazil
+97,3,1550,Stefano,Van Juulit,Dental floss,0.8$,0$,Rua Santa Adelina 12/33,Ibirit?,Brazil
+97,3,1550,Stefano,Van Juulit,Dental floss,0.8$,0$,Rua Santa Adelina 12/33,Ibirit?,Brazil
+98,3,1551,Cau?,Lima,Dental floss,0.8$,0$,Rua Sete de Setembro 12/33,Ibirit?,Brazil
+98,3,1551,Cau?,Lima,Dental floss,0.8$,0$,Rua Sete de Setembro 12/33,Ibirit?,Brazil
+99,2,1552,Cleiton,Cardoso Pereira,Toothpaste,1.5$,0$,Rua Santo Cristo 121/12,Guarapuava,Brazil
+100,11,1553,Domingos,Lima,Goji Berries,2.5$,1$,Rua Santo Ant?nio 14/42,Palho?a,Brazil
+101,13,1580,Ivan,Oviedo,Chia Seeds,2$,1$,Calle Miguel de Cervantes 17/23,Valladolid,Spain
+102,12,1581,Zayed,Ben-Attiyah,Cocoa Nibs,2.5$,1$,Calle de Carlos Ruiz Zaf?n 3/22,Barcelona,Spain
+103,12,1582,Vicente,Zubizaretta,Cocoa Nibs,2.5$,1$,Calle de Carlos Fuentes 19/22,Mallorca,Spain
+104,13,1620,Ferdi,?smailo?lu,Chia Seeds,2$,1$,Gazi Abdulhamit II sk. 2/13,Kahramanmara?,Turkey
+105,10,1621,Celal,Re?ber,Flashlight 3 LED,4$,1$,Fatma Esma Nayman cd. 200/17,Ku?adas?,Turkey
+106,8,1622,Cemal,Kimyac?o?lu,Tent for 2 People,60$,13$,Ya?ar Kemal cd. 273/11,Diyarbak?r,Turkey
+107,13,1623,Ingrid,Ibsen,Chia Seeds,2$,1$,Paal Brekke 2300/42 st.,Bergen,Norway
+108,8,1680,Nathalie,Verhaeren,Tent for 2 People,60$,11$,Georges Simenon rue 12/16,Liege,Belgium
+109,12,1681,Karel,Skowronek,Cocoa Nibs,2.5$,1$,Maurice Maeterlinck rue 213/11,Bouillon,Belgium
+109,12,1681,Karel,Skowronek,Cocoa Nibs,2.5$,1$,Maurice Maeterlinck rue 213/11,Bouillon,Belgium
+110,9,1682,Veronique,Gallo,Tent for 4 People,100$,12$,?mile Verhaeren st. 51/14,Mechelen,Belgium
+111,6,1683,Felix,Lahaye,Backpack 60L,42$,11$,Henri Michaux st. 34/11,Namur,Belgium
+111,6,1683,Felix,Lahaye,Backpack 60L,42$,11$,Henri Michaux st. 34/11,Namur,Belgium
+112,7,1684,Willem,Elst,Backpack 80L,55$,12$,Karel van de Woestijne st. 322/11,Ghent,Belgium
+113,4,1685,Amelie,Conscience,Backpack 30L,18$,10$,Adolphe Siret st. 35/11,Liege,Belgium
+114,5,1700,Aylin,Keyder,Backpack 50L,30$,11$,Hatice N?zhet G?kdo?an sk. 30/30,Urla,Turkey
+115,8,1701,Feridun,G?ltekin,Tent for 2 People,60$,13$,Thomas Mann Stra?e 33/42,M?nchengladbach,Germany
+116,12,1702,Mia,Krause,Cocoa Nibs,2.5$,0$,Bruchstra?e 27/31,Mannheim,Germany
+116,12,1702,Mia,Krause,Cocoa Nibs,2.5$,0$,Bruchstra?e 27/31,Mannheim,Germany
+116,10,1702,Mia,Krause,Flashlight 3 LED,4$,0$,Lappenberg Stra?e  13/4,Mannheim,Germany
+117,9,1703,Felix,Kissinger,Tent for 4 People,100$,13$,Vulkanstra?e 39/35,Heidelberg,Germany
+118,8,1704,Mila,Rosenbauer,Tent for 2 People,60$,11$,Adami?- Lundrovo nabre?je 12/28,Ljubljana,Slovenia
+119,7,1705,Janez,Zupan?i?,Backpack 80L,55$,9$,Amvrosiou Frantzi 21/27,Heraklion,Greece
+120,7,1706,Georgia,Ioannou,Backpack 80L,55$,8$,Agias Zonis 11/38,Corfu,Greece
+120,7,1706,Georgia,Ioannou,Backpack 80L,55$,8$,Agias Zonis 11/38,Corfu,Greece
+121,6,1707,Androula,Pappas,Backpack 60L,42$,7$,Amvrosiou Frantzi 91/13,Edessa,Greece
+121,6,1707,Androula,Pappas,Backpack 60L,42$,7$,Amvrosiou Frantzi 91/13,Edessa,Greece
+122,5,1708,Eleni,Vlachos,Backpack 50L,30$,11$,Apostolou Pavlou 80/13,Larnaca,Cyprus
+123,4,1709,Michalis,Charalambous,Backpack 30L,18$,10$,Dionysiou Areopagitou 57/11,Paphos,Cyprus
+124,5,1710,Panagiota,Karagiannis,Backpack 50L,30$,8$,Herrengasse 65/11,Parndorf,Austria
+124,5,1710,Liesl,Dornberg,Backpack 50L,30$,8$,Herrengasse 65/11,Parndorf,Austria
